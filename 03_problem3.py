@@ -1,2 +1,5 @@
-a = input("Enter the value of a: ")
-print(type(a))
+s = set()
+s.add(18)
+s.add("18")
+
+print(s)
